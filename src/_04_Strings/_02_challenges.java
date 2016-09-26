@@ -13,9 +13,8 @@ public class _02_challenges {
 		System.out.println(sodaCan.substring(0, 5));
 		System.out.println(sodaCan.substring(5));
 		//gold
-		for(int s=1;.;s++){
-		String sss = "sally sells seashells.";
-		System.out.println(sss);
-		}
+//		for(String s;;s){
+//		String sss = "sally sells seashells";
+//		System.out.println(sss);
 	}
 }
