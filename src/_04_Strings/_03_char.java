@@ -8,6 +8,9 @@ public class _03_char {
 		System.out.println(percent);
 		char [] charArray = {'A', 'n', 't', 'h', 'o', 'n', 'y'};
 		System.out.println(charArray);
+		
+		
+		
 	}
 
 }
