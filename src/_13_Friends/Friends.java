@@ -13,7 +13,7 @@ public class Friends {
 	String gender;
 	
 	
-	
+	//Methods
 	public void getfriend(){
 		System.out.println(firstName +" "+ lastName +" Age:" + age + " Status:" +Status);
 	}
