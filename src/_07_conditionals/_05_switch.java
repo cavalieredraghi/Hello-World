@@ -12,11 +12,11 @@ public class _05_switch {
 		mainCourse = inputInfo.nextLine();
 		
 		switch (mainCourse){
-			case "Hamburger": mainCourse = "Hamburger";
+			case "Hamburger": mainCourse = "burger";
 				break;
-			case "Pizza": mainCourse = "Pizza";
+			case "Pizza": mainCourse = "Piz";
 				break;
-			case "Burrito": mainCourse ="Burrito";
+			case "Burrito": mainCourse ="Buro";
 				break;	
 		}
 		System.out.println("you have chosen "+ mainCourse+ " Please pick a side. Rice and Beans, fries, or bread Sticks.");
