@@ -15,7 +15,5 @@ public class Employee {
 		
 	}
 	
-	JobTasks(){
-		System.out.println();
-	}
+	
 }
