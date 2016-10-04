@@ -1,12 +1,14 @@
 package _15_Inheritance_Polymorphism;
 
+import _17_Encapsulation.Patriots;
+
 public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	
 		//Creating new animals
-		Animal george=new Animal();
+	/*	Animal george=new Animal();
 		george.name = "George the Animal";
 		
 		
@@ -33,13 +35,17 @@ public class Main {
 		Squeaker.HabitatLove();
 		Jack.HabitatLove();
 		Barney.HabitatLove();
-		
+		*/
 		//Challenge Create a Mouse class inside of this package. 
 		//have a mouse class inhert from Animal
 		//Make the Mouse class use Polymorphism to override speak()
 		//within Animal create a new Method
 		// Override it within Kangaroo mouse and bear to make it specific to that type of animal
 		
+		
+		Patriots gWashington = new Patriots();
+		gWashington.name="George Washington";
+		System.out.println(gWashington.name);
 	}
 
 }
