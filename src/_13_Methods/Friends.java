@@ -1,4 +1,4 @@
-package _13_Friends;
+package _13_Methods;
 
 public class Friends {
 

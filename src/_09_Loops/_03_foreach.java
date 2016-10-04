@@ -11,6 +11,12 @@ public class _03_foreach {
 		for(String greastestBoss:greastestBosses){
 			System.out.println(greastestBoss);
 		}
-
+//regular for statement with arrays
+		String[] holidays = {"Yule", "Samhain", "Beltane", "Lamas"};
+	  	
+	  	for (int i=0; i< holidays.length;i++){
+	  		System.out.println(holidays[i]);
+	  		// Don't forget hat [i]s
+	  	}
 }
 }

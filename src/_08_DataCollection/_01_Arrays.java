@@ -53,6 +53,8 @@ public class _01_Arrays {
 		System.out.println(anArrayOfStrings[1]);
 		System.out.println(anArrayOfStrings[2]);
 		
+		String[] characters = {"Drixtel", "Kallen", "DragKel"};
+		System.out.println(characters[0]);
 	}
 
 }
