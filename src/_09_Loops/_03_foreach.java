@@ -6,7 +6,7 @@ public class _03_foreach {
 		for(String comedian:comedians){
 			System.out.println(comedian);
 		}
-		String [] greastestBosses = {"Tammy-jo Anders", "Deanna" , "Mellisa McCartney"};
+		String [] greastestBosses = {"Tammy-jo Anders", "Deanna" , };
 		
 		for(String greastestBoss:greastestBosses){
 			System.out.println(greastestBoss);

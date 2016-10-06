@@ -27,7 +27,7 @@ public class Player {
 	public int getHP() {
 		return hp;
 	}
-
+//setter
 	public void setNewPlayerName(String newname) {
 		this.name = newname;
 	}
