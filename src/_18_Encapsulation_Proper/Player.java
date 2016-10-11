@@ -36,3 +36,7 @@ public class Player {
 		this.status = newStatus;
 	}
 }
+
+//all getters are methods but not all methods are getters all constructors are setters
+//but not all setters are constructors
+
